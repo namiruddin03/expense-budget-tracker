@@ -1,0 +1,429 @@
+transaction_id,transaction_date,year,month,year_month,day_name,is_weekend,merchant,description,category,is_auto_categorised,payment_mode,transaction_type,raw_amount,net_amount,abs_amount
+TXN10001,2025-01-01 09:45:40,2025,1,2025-01,Wednesday,0,Swiggy,Online food delivery order,Food & Dining,False,Debit Card,Expense,1689.21,1689.21,1689.21
+TXN10002,2025-01-02 21:07:09,2025,1,2025-01,Thursday,0,FASTag,National highway toll recharge,Transportation,False,Credit Card,Expense,1111.14,1111.14,1111.14
+TXN10003,2025-01-03 16:15:17,2025,1,2025-01,Friday,0,Ola,Auto ride city commute,Transportation,False,Credit Card,Expense,895.03,895.03,895.03
+TXN10004,2025-01-03 20:34:49,2025,1,2025-01,Friday,0,Dominos,Weekend pizza party,Food & Dining,False,Credit Card,Expense,957.98,957.98,957.98
+TXN10005,2025-01-04 08:47:17,2025,1,2025-01,Saturday,1,Zepto,"Fruits, milk and vegetables",Groceries,False,Credit Card,Expense,3159.06,3159.06,3159.06
+TXN10006,2025-01-04 11:14:04,2025,1,2025-01,Saturday,1,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,2437.99,2437.99,2437.99
+TXN10007,2025-01-04 18:27:22,2025,1,2025-01,Saturday,1,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,3662.16,3662.16,3662.16
+TXN10008,2025-01-05 11:19:00,2025,1,2025-01,Sunday,1,Netflix,Monthly streaming plan renew,Entertainment & Leisure,True,Credit Card,Expense,1338.54,1338.54,1338.54
+TXN10009,2025-01-07 10:23:48,2025,1,2025-01,Tuesday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Net Banking,Expense,1718.14,1718.14,1718.14
+TXN10010,2025-01-07 11:34:28,2025,1,2025-01,Tuesday,0,Zomato,Restaurant meal delivery,Food & Dining,False,UPI,Expense,623.53,623.53,623.53
+TXN10011,2025-01-07 19:04:02,2025,1,2025-01,Tuesday,0,FASTag,National highway toll recharge,Transportation,False,UPI,Expense,512.76,512.76,512.76
+TXN10012,2025-01-08 21:06:24,2025,1,2025-01,Wednesday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,892.48,892.48,892.48
+TXN10013,2025-01-09 10:13:48,2025,1,2025-01,Thursday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,1750.71,1750.71,1750.71
+TXN10014,2025-01-09 16:55:38,2025,1,2025-01,Thursday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,3919.21,3919.21,3919.21
+TXN10015,2025-01-10 11:03:15,2025,1,2025-01,Friday,0,Netflix,Monthly 4K streaming plan,Entertainment & Leisure,False,Credit Card,Expense,301.87,301.87,301.87
+TXN10016,2025-01-10 14:10:29,2025,1,2025-01,Friday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,1638.95,1638.95,1638.95
+TXN10017,2025-01-12 17:16:51,2025,1,2025-01,Sunday,1,Chai Point,Evening tea and snacks,Food & Dining,False,Cash,Expense,1061.59,1061.59,1061.59
+TXN10018,2025-01-13 09:35:18,2025,1,2025-01,Monday,0,Croma,Gadgets and mobile accessories,Shopping,False,UPI,Expense,7583.61,7583.61,7583.61
+TXN10019,2025-01-13 14:38:29,2025,1,2025-01,Monday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,UPI,Expense,3333.61,3333.61,3333.61
+TXN10020,2025-01-13 17:24:27,2025,1,2025-01,Monday,0,Jio,Jio Fiber broadband recharge,Utilities & Bills,True,Debit Card,Expense,830.76,830.76,830.76
+TXN10021,2025-01-14 22:37:25,2025,1,2025-01,Tuesday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,UPI,Expense,2262.63,2262.63,2262.63
+TXN10022,2025-01-15 10:16:08,2025,1,2025-01,Wednesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,2378.96,2378.96,2378.96
+TXN10023,2025-01-15 19:50:15,2025,1,2025-01,Wednesday,0,Amazon,Return refund for damaged headphones,Shopping,False,Credit Card,Refund,-1499.0,-1499.0,1499.0
+TXN10024,2025-01-17 20:11:32,2025,1,2025-01,Friday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,Credit Card,Expense,2725.01,2725.01,2725.01
+TXN10025,2025-01-19 12:51:55,2025,1,2025-01,Sunday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,421.42,421.42,421.42
+TXN10026,2025-01-20 08:35:12,2025,1,2025-01,Monday,0,Delhi Metro,Smart card top-up,Transportation,False,UPI,Expense,903.76,903.76,903.76
+TXN10027,2025-01-20 13:31:01,2025,1,2025-01,Monday,0,Starbucks,Coffee and snacks,Food & Dining,False,Debit Card,Expense,1643.83,1643.83,1643.83
+TXN10028,2025-01-21 18:06:03,2025,1,2025-01,Tuesday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,3412.34,3412.34,3412.34
+TXN10029,2025-01-22 12:44:59,2025,1,2025-01,Wednesday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,1001.97,1001.97,1001.97
+TXN10030,2025-01-22 19:48:02,2025,1,2025-01,Wednesday,0,Zomato,Office team lunch order,Food & Dining,True,Credit Card,Expense,308.95,308.95,308.95
+TXN10031,2025-01-23 11:45:19,2025,1,2025-01,Thursday,0,BigBasket,Monthly grocery staples,Groceries,False,Credit Card,Expense,1980.5,1980.5,1980.5
+TXN10032,2025-01-24 09:43:56,2025,1,2025-01,Friday,0,Airtel,Postpaid mobile bill,Utilities & Bills,False,UPI,Expense,3024.81,3024.81,3024.81
+TXN10033,2025-01-24 11:10:29,2025,1,2025-01,Friday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,1117.48,1117.48,1117.48
+TXN10034,2025-01-25 20:03:14,2025,1,2025-01,Saturday,1,Myntra,"Apparel, footwear and fashion",Shopping,False,UPI,Expense,3709.32,3709.32,3709.32
+TXN10035,2025-01-29 16:05:37,2025,1,2025-01,Wednesday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,620.1,620.1,620.1
+TXN10036,2025-01-29 17:36:30,2025,1,2025-01,Wednesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,3439.61,3439.61,3439.61
+TXN10037,2025-01-30 17:56:45,2025,1,2025-01,Thursday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Net Banking,Expense,1812.75,1812.75,1812.75
+TXN10038,2025-01-31 23:55:00,2025,1,2025-01,Friday,0,Swiggy,Late midnight dinner delivery,Food & Dining,False,UPI,Expense,680.0,680.0,680.0
+TXN10039,2025-02-01 00:05:00,2025,2,2025-02,Saturday,1,Uber,Midnight return cab from airport,Transportation,False,Credit Card,Expense,920.0,920.0,920.0
+TXN10040,2025-02-01 09:59:48,2025,2,2025-02,Saturday,1,Spotify,Music streaming subscription,Entertainment & Leisure,False,Credit Card,Expense,687.1,687.1,687.1
+TXN10041,2025-02-02 17:30:32,2025,2,2025-02,Sunday,1,Practo,Doctor consultation fee,Healthcare & Wellness,False,Credit Card,Expense,370.64,370.64,370.64
+TXN10042,2025-02-03 22:15:23,2025,2,2025-02,Monday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Credit Card,Expense,3543.29,3543.29,3543.29
+TXN10043,2025-02-04 09:56:44,2025,2,2025-02,Tuesday,0,Apollo Pharmacy,Prescription medicines & vitamins,Healthcare & Wellness,False,Credit Card,Expense,2703.79,2703.79,2703.79
+TXN10044,2025-02-04 21:39:18,2025,2,2025-02,Tuesday,0,Blinkit,Instant snacks and beverages,Groceries,True,Debit Card,Expense,2045.62,2045.62,2045.62
+TXN10045,2025-02-04 22:08:16,2025,2,2025-02,Tuesday,0,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,1412.11,1412.11,1412.11
+TXN10046,2025-02-05 14:08:02,2025,2,2025-02,Wednesday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,3800.75,3800.75,3800.75
+TXN10047,2025-02-05 18:16:10,2025,2,2025-02,Wednesday,0,Croma,Gadgets and mobile accessories,Shopping,False,Credit Card,Expense,6145.34,6145.34,6145.34
+TXN10048,2025-02-05 18:41:19,2025,2,2025-02,Wednesday,0,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,Credit Card,Expense,481.21,481.21,481.21
+TXN10049,2025-02-06 17:16:02,2025,2,2025-02,Thursday,0,Chai Point,Evening tea and snacks,Food & Dining,False,Debit Card,Expense,737.67,737.67,737.67
+TXN10050,2025-02-07 12:13:03,2025,2,2025-02,Friday,0,Shell,Premium petrol refill,Transportation,False,UPI,Expense,163.27,163.27,163.27
+TXN10051,2025-02-08 18:06:22,2025,2,2025-02,Saturday,1,Nykaa,Skincare & grooming products,Shopping,False,Credit Card,Expense,8290.7,8290.7,8290.7
+TXN10052,2025-02-08 21:10:51,2025,2,2025-02,Saturday,1,Nykaa,Skincare & grooming products,Shopping,False,Credit Card,Expense,698.29,698.29,698.29
+TXN10053,2025-02-10 17:13:45,2025,2,2025-02,Monday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,2246.37,2246.37,2246.37
+TXN10054,2025-02-11 20:59:26,2025,2,2025-02,Tuesday,0,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,6985.99,6985.99,6985.99
+TXN10055,2025-02-13 13:17:55,2025,2,2025-02,Thursday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Credit Card,Expense,624.51,624.51,624.51
+TXN10056,2025-02-13 18:53:34,2025,2,2025-02,Thursday,0,Blinkit,Instant grocery essentials,Groceries,False,Cash,Expense,705.6,705.6,705.6
+TXN10057,2025-02-14 17:32:07,2025,2,2025-02,Friday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,1000.81,1000.81,1000.81
+TXN10058,2025-02-15 13:19:52,2025,2,2025-02,Saturday,1,Flipkart,Books and household items,Shopping,False,Credit Card,Expense,2283.39,2283.39,2283.39
+TXN10059,2025-02-15 20:55:54,2025,2,2025-02,Saturday,1,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,Credit Card,Expense,2634.69,2634.69,2634.69
+TXN10060,2025-02-17 13:59:16,2025,2,2025-02,Monday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,684.11,684.11,684.11
+TXN10061,2025-02-18 15:24:17,2025,2,2025-02,Tuesday,0,Swiggy,Refund for cancelled dinner order,Food & Dining,False,UPI,Refund,-450.5,-450.5,450.5
+TXN10062,2025-02-19 09:04:34,2025,2,2025-02,Wednesday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,375.18,375.18,375.18
+TXN10063,2025-02-19 11:37:38,2025,2,2025-02,Wednesday,0,Swiggy,Online food delivery order,Food & Dining,False,Credit Card,Expense,862.68,862.68,862.68
+TXN10064,2025-02-19 16:03:40,2025,2,2025-02,Wednesday,0,Blinkit,Instant snacks and beverages,Groceries,True,UPI,Expense,271.26,271.26,271.26
+TXN10065,2025-02-20 20:41:33,2025,2,2025-02,Thursday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Net Banking,Expense,1092.82,1092.82,1092.82
+TXN10066,2025-02-26 19:06:24,2025,2,2025-02,Wednesday,0,PVR Cinemas,IMAX tickets and popcorn combo,Entertainment & Leisure,False,Debit Card,Expense,466.14,466.14,466.14
+TXN10067,2025-02-26 20:29:18,2025,2,2025-02,Wednesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,2864.39,2864.39,2864.39
+TXN10068,2025-02-27 14:28:21,2025,2,2025-02,Thursday,0,Blinkit,Instant snacks and beverages,Groceries,True,Debit Card,Expense,1218.89,1218.89,1218.89
+TXN10069,2025-02-28 08:05:40,2025,2,2025-02,Friday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,424.14,424.14,424.14
+TXN10070,2025-02-28 10:04:38,2025,2,2025-02,Friday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,549.85,549.85,549.85
+TXN10071,2025-02-28 14:57:03,2025,2,2025-02,Friday,0,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,1825.03,1825.03,1825.03
+TXN10072,2025-02-28 23:52:00,2025,2,2025-02,Friday,0,Blinkit,Late night ice cream & soda,Groceries,False,UPI,Expense,340.0,340.0,340.0
+TXN10073,2025-03-01 00:08:00,2025,3,2025-03,Saturday,1,Netflix,Monthly streaming plan billing,Entertainment & Leisure,False,Credit Card,Expense,649.0,649.0,649.0
+TXN10074,2025-03-01 16:59:51,2025,3,2025-03,Saturday,1,Bescom,Bangalore power utility payment,Utilities & Bills,False,Credit Card,Expense,3599.88,3599.88,3599.88
+TXN10075,2025-03-01 19:34:03,2025,3,2025-03,Saturday,1,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,UPI,Expense,7209.15,7209.15,7209.15
+TXN10076,2025-03-04 13:09:24,2025,3,2025-03,Tuesday,0,Zomato,Office team lunch order,Food & Dining,True,Debit Card,Expense,1359.85,1359.85,1359.85
+TXN10077,2025-03-04 19:57:19,2025,3,2025-03,Tuesday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,UPI,Expense,1818.12,1818.12,1818.12
+TXN10078,2025-03-05 10:14:24,2025,3,2025-03,Wednesday,0,Delhi Metro,Smart card top-up,Transportation,False,UPI,Expense,397.35,397.35,397.35
+TXN10079,2025-03-05 11:08:30,2025,3,2025-03,Wednesday,0,Shell,Premium petrol refill,Transportation,False,Credit Card,Expense,1520.07,1520.07,1520.07
+TXN10080,2025-03-06 12:06:37,2025,3,2025-03,Thursday,0,Starbucks,Coffee and snacks,Food & Dining,False,Net Banking,Expense,1128.85,1128.85,1128.85
+TXN10081,2025-03-07 10:01:02,2025,3,2025-03,Friday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Debit Card,Expense,2664.53,2664.53,2664.53
+TXN10082,2025-03-07 13:27:04,2025,3,2025-03,Friday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,Credit Card,Expense,2069.47,2069.47,2069.47
+TXN10083,2025-03-08 10:41:44,2025,3,2025-03,Saturday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,Net Banking,Expense,1612.75,1612.75,1612.75
+TXN10084,2025-03-08 21:40:17,2025,3,2025-03,Saturday,1,Croma,Gadgets and mobile accessories,Shopping,False,UPI,Expense,4376.78,4376.78,4376.78
+TXN10085,2025-03-08 22:54:07,2025,3,2025-03,Saturday,1,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,Cash,Expense,2686.39,2686.39,2686.39
+TXN10086,2025-03-09 20:23:10,2025,3,2025-03,Sunday,1,Delhi Metro,Smart card top-up,Transportation,False,Debit Card,Expense,1169.09,1169.09,1169.09
+TXN10087,2025-03-10 16:08:12,2025,3,2025-03,Monday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Net Banking,Expense,2925.41,2925.41,2925.41
+TXN10088,2025-03-11 13:48:56,2025,3,2025-03,Tuesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,1246.47,1246.47,1246.47
+TXN10089,2025-03-11 14:38:44,2025,3,2025-03,Tuesday,0,Uber,Work commute ride to tech park,Transportation,True,Credit Card,Expense,377.3,377.3,377.3
+TXN10090,2025-03-11 16:29:26,2025,3,2025-03,Tuesday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Net Banking,Expense,864.24,864.24,864.24
+TXN10091,2025-03-11 18:43:51,2025,3,2025-03,Tuesday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Net Banking,Expense,3570.0,3570.0,3570.0
+TXN10092,2025-03-12 12:48:24,2025,3,2025-03,Wednesday,0,PVR Cinemas,IMAX tickets and popcorn combo,Entertainment & Leisure,False,Credit Card,Expense,845.4,845.4,845.4
+TXN10093,2025-03-14 10:55:29,2025,3,2025-03,Friday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,794.48,794.48,794.48
+TXN10094,2025-03-15 09:45:18,2025,3,2025-03,Saturday,1,Starbucks,Coffee and snacks,Food & Dining,False,Credit Card,Expense,693.51,693.51,693.51
+TXN10095,2025-03-15 14:56:40,2025,3,2025-03,Saturday,1,Delhi Metro,Smart card top-up,Transportation,False,Credit Card,Expense,1135.42,1135.42,1135.42
+TXN10096,2025-03-16 20:57:50,2025,3,2025-03,Sunday,1,Zara,Casual clothing purchase,Shopping,False,Credit Card,Expense,1178.36,1178.36,1178.36
+TXN10097,2025-03-17 15:41:50,2025,3,2025-03,Monday,0,Zomato,Office team lunch order,Food & Dining,True,UPI,Expense,713.16,713.16,713.16
+TXN10098,2025-03-19 19:01:54,2025,3,2025-03,Wednesday,0,Hotstar,Annual sports & entertainment pack,Entertainment & Leisure,False,UPI,Expense,655.84,655.84,655.84
+TXN10099,2025-03-20 13:48:57,2025,3,2025-03,Thursday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,UPI,Expense,3438.27,3438.27,3438.27
+TXN10100,2025-03-20 16:01:58,2025,3,2025-03,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,2868.85,2868.85,2868.85
+TXN10101,2025-03-20 17:19:25,2025,3,2025-03,Thursday,0,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,UPI,Expense,1467.98,1467.98,1467.98
+TXN10102,2025-03-21 17:21:05,2025,3,2025-03,Friday,0,Flipkart,Books and household items,Shopping,False,UPI,Expense,5882.37,5882.37,5882.37
+TXN10103,2025-03-22 16:23:07,2025,3,2025-03,Saturday,1,Flipkart,Return refund credited for apparel,Shopping,False,Credit Card,Refund,-2199.0,-2199.0,2199.0
+TXN10104,2025-03-25 14:14:11,2025,3,2025-03,Tuesday,0,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,4643.66,4643.66,4643.66
+TXN10105,2025-03-26 17:38:41,2025,3,2025-03,Wednesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,1996.53,1996.53,1996.53
+TXN10106,2025-03-26 17:57:14,2025,3,2025-03,Wednesday,0,Airtel,Postpaid mobile bill,Utilities & Bills,False,UPI,Expense,1910.05,1910.05,1910.05
+TXN10107,2025-03-30 16:28:57,2025,3,2025-03,Sunday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,956.95,956.95,956.95
+TXN10108,2025-03-31 18:02:48,2025,3,2025-03,Monday,0,Zomato,Restaurant meal delivery,Food & Dining,False,UPI,Expense,488.91,488.91,488.91
+TXN10109,2025-03-31 23:58:00,2025,3,2025-03,Monday,0,Amazon,Midnight flash sale purchase,Shopping,False,Credit Card,Expense,2499.0,2499.0,2499.0
+TXN10110,2025-04-01 00:02:00,2025,4,2025-04,Tuesday,0,Electricity Bill,Online power utility bill payment,Utilities & Bills,False,Net Banking,Expense,1850.0,1850.0,1850.0
+TXN10111,2025-04-02 13:34:27,2025,4,2025-04,Wednesday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,844.12,844.12,844.12
+TXN10112,2025-04-02 16:18:44,2025,4,2025-04,Wednesday,0,Pharmeasy,Healthcare supplements & first aid,Healthcare & Wellness,False,UPI,Expense,507.76,507.76,507.76
+TXN10113,2025-04-03 12:13:57,2025,4,2025-04,Thursday,0,Apollo Pharmacy,First aid and cold medicines,Healthcare & Wellness,True,Debit Card,Expense,2196.67,2196.67,2196.67
+TXN10114,2025-04-04 20:13:40,2025,4,2025-04,Friday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,288.02,288.02,288.02
+TXN10115,2025-04-04 21:04:25,2025,4,2025-04,Friday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,UPI,Expense,2558.64,2558.64,2558.64
+TXN10116,2025-04-05 20:36:19,2025,4,2025-04,Saturday,1,Zomato,Restaurant meal delivery,Food & Dining,False,Debit Card,Expense,351.37,351.37,351.37
+TXN10117,2025-04-07 09:15:46,2025,4,2025-04,Monday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,3244.75,3244.75,3244.75
+TXN10118,2025-04-08 12:42:37,2025,4,2025-04,Tuesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,2347.14,2347.14,2347.14
+TXN10119,2025-04-10 11:23:11,2025,4,2025-04,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,750.0,750.0,750.0
+TXN10120,2025-04-10 15:30:28,2025,4,2025-04,Thursday,0,Blinkit,Instant grocery essentials,Groceries,False,Debit Card,Expense,1247.29,1247.29,1247.29
+TXN10121,2025-04-10 19:12:37,2025,4,2025-04,Thursday,0,Uber,Driver cancellation fee refund,Transportation,False,UPI,Refund,-110.0,-110.0,110.0
+TXN10122,2025-04-10 19:18:44,2025,4,2025-04,Thursday,0,Netflix,Monthly 4K streaming plan,Entertainment & Leisure,False,Net Banking,Expense,1024.55,1024.55,1024.55
+TXN10123,2025-04-10 21:37:27,2025,4,2025-04,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Cash,Expense,487.91,487.91,487.91
+TXN10124,2025-04-13 19:12:04,2025,4,2025-04,Sunday,1,FASTag,National highway toll recharge,Transportation,False,UPI,Expense,1029.68,1029.68,1029.68
+TXN10125,2025-04-14 14:18:47,2025,4,2025-04,Monday,0,Uber,Work commute ride to tech park,Transportation,True,Credit Card,Expense,1133.29,1133.29,1133.29
+TXN10126,2025-04-14 19:20:38,2025,4,2025-04,Monday,0,Blinkit,Instant grocery essentials,Groceries,False,Credit Card,Expense,1154.25,1154.25,1154.25
+TXN10127,2025-04-16 12:46:37,2025,4,2025-04,Wednesday,0,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,Debit Card,Expense,27477.68,27477.68,27477.68
+TXN10128,2025-04-18 09:10:00,2025,4,2025-04,Friday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,2106.15,2106.15,2106.15
+TXN10129,2025-04-18 20:30:29,2025,4,2025-04,Friday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Debit Card,Expense,1310.16,1310.16,1310.16
+TXN10130,2025-04-20 17:50:39,2025,4,2025-04,Sunday,1,McDonald's,Burgers and fries meal,Food & Dining,False,Net Banking,Expense,796.64,796.64,796.64
+TXN10131,2025-04-20 19:52:36,2025,4,2025-04,Sunday,1,Pharmeasy,Healthcare supplements & first aid,Healthcare & Wellness,False,Credit Card,Expense,573.06,573.06,573.06
+TXN10132,2025-04-21 10:58:17,2025,4,2025-04,Monday,0,Amazon,Electronics and home essentials,Shopping,False,Debit Card,Expense,977.1,977.1,977.1
+TXN10133,2025-04-21 19:31:28,2025,4,2025-04,Monday,0,Amazon,Electronics and home essentials,Shopping,False,UPI,Expense,2853.88,2853.88,2853.88
+TXN10134,2025-04-22 14:21:01,2025,4,2025-04,Tuesday,0,Airtel,Postpaid mobile bill,Utilities & Bills,False,UPI,Expense,1059.16,1059.16,1059.16
+TXN10135,2025-04-23 10:27:11,2025,4,2025-04,Wednesday,0,Zara,Casual clothing purchase,Shopping,False,Debit Card,Expense,2660.66,2660.66,2660.66
+TXN10136,2025-04-23 14:17:32,2025,4,2025-04,Wednesday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,719.48,719.48,719.48
+TXN10137,2025-04-24 11:20:07,2025,4,2025-04,Thursday,0,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,1981.2,1981.2,1981.2
+TXN10138,2025-04-24 16:21:22,2025,4,2025-04,Thursday,0,Rapido,Bike taxi ride,Transportation,False,UPI,Expense,539.13,539.13,539.13
+TXN10139,2025-04-25 12:54:43,2025,4,2025-04,Friday,0,Uber,Cab ride to workplace/airport,Transportation,False,Credit Card,Expense,1288.23,1288.23,1288.23
+TXN10140,2025-04-25 15:20:23,2025,4,2025-04,Friday,0,Uber,Work commute ride to tech park,Transportation,True,UPI,Expense,233.02,233.02,233.02
+TXN10141,2025-04-26 12:21:17,2025,4,2025-04,Saturday,1,BookMyShow,Cinema weekend movie tickets,Entertainment & Leisure,False,Credit Card,Expense,866.51,866.51,866.51
+TXN10142,2025-04-26 20:40:37,2025,4,2025-04,Saturday,1,Ola,Auto ride city commute,Transportation,False,Credit Card,Expense,720.46,720.46,720.46
+TXN10143,2025-04-27 22:05:17,2025,4,2025-04,Sunday,1,Spotify,Music streaming subscription,Entertainment & Leisure,False,Credit Card,Expense,1100.32,1100.32,1100.32
+TXN10144,2025-04-28 14:52:31,2025,4,2025-04,Monday,0,Starbucks,Coffee and snacks,Food & Dining,False,Debit Card,Expense,1230.49,1230.49,1230.49
+TXN10145,2025-04-28 17:37:01,2025,4,2025-04,Monday,0,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,Debit Card,Expense,16643.42,16643.42,16643.42
+TXN10146,2025-04-30 23:45:00,2025,4,2025-04,Wednesday,0,Zomato,Late night biryani order,Food & Dining,False,UPI,Expense,540.0,540.0,540.0
+TXN10147,2025-05-01 00:15:00,2025,5,2025-05,Thursday,0,Jio,Monthly JioFiber payment renewal,Utilities & Bills,False,UPI,Expense,1179.0,1179.0,1179.0
+TXN10148,2025-05-06 13:26:44,2025,5,2025-05,Tuesday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,Debit Card,Expense,3616.4,3616.4,3616.4
+TXN10149,2025-05-08 15:35:09,2025,5,2025-05,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Net Banking,Expense,2257.55,2257.55,2257.55
+TXN10150,2025-05-08 16:26:36,2025,5,2025-05,Thursday,0,Ola,Auto ride city commute,Transportation,False,UPI,Expense,330.07,330.07,330.07
+TXN10151,2025-05-08 18:11:43,2025,5,2025-05,Thursday,0,BookMyShow,Refund for show cancelled by cinema,Entertainment & Leisure,False,UPI,Refund,-720.0,-720.0,720.0
+TXN10152,2025-05-08 21:58:07,2025,5,2025-05,Thursday,0,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,UPI,Expense,2619.83,2619.83,2619.83
+TXN10153,2025-05-09 13:39:44,2025,5,2025-05,Friday,0,Blinkit,Instant grocery essentials,Groceries,False,Debit Card,Expense,3614.47,3614.47,3614.47
+TXN10154,2025-05-09 15:16:42,2025,5,2025-05,Friday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,940.93,940.93,940.93
+TXN10155,2025-05-09 15:54:19,2025,5,2025-05,Friday,0,Chai Point,Evening tea and snacks,Food & Dining,False,UPI,Expense,1600.67,1600.67,1600.67
+TXN10156,2025-05-09 21:00:18,2025,5,2025-05,Friday,0,Croma,Gadgets and mobile accessories,Shopping,False,Credit Card,Expense,5139.39,5139.39,5139.39
+TXN10157,2025-05-10 09:59:04,2025,5,2025-05,Saturday,1,Netflix,Monthly streaming plan renew,Entertainment & Leisure,True,Credit Card,Expense,1021.0,1021.0,1021.0
+TXN10158,2025-05-13 18:50:52,2025,5,2025-05,Tuesday,0,Ola,Auto ride city commute,Transportation,False,UPI,Expense,827.85,827.85,827.85
+TXN10159,2025-05-14 09:48:40,2025,5,2025-05,Wednesday,0,Uber,Cab ride to workplace/airport,Transportation,False,Credit Card,Expense,748.83,748.83,748.83
+TXN10160,2025-05-15 08:46:09,2025,5,2025-05,Thursday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,545.57,545.57,545.57
+TXN10161,2025-05-15 22:20:55,2025,5,2025-05,Thursday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,555.97,555.97,555.97
+TXN10162,2025-05-16 14:48:17,2025,5,2025-05,Friday,0,Amazon,Wireless mouse and desk organizer,Shopping,True,UPI,Expense,704.46,704.46,704.46
+TXN10163,2025-05-16 16:41:28,2025,5,2025-05,Friday,0,Practo,Doctor consultation fee,Healthcare & Wellness,False,UPI,Expense,3190.84,3190.84,3190.84
+TXN10164,2025-05-17 13:39:48,2025,5,2025-05,Saturday,1,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,2995.97,2995.97,2995.97
+TXN10165,2025-05-17 17:21:55,2025,5,2025-05,Saturday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,Credit Card,Expense,898.52,898.52,898.52
+TXN10166,2025-05-18 08:29:05,2025,5,2025-05,Sunday,1,BigBasket,Monthly grocery staples,Groceries,False,Debit Card,Expense,707.89,707.89,707.89
+TXN10167,2025-05-18 10:04:28,2025,5,2025-05,Sunday,1,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,UPI,Expense,2116.82,2116.82,2116.82
+TXN10168,2025-05-18 10:59:18,2025,5,2025-05,Sunday,1,D-Mart,Supermarket bulk provisions,Groceries,False,Cash,Expense,729.63,729.63,729.63
+TXN10169,2025-05-20 09:15:40,2025,5,2025-05,Tuesday,0,Rapido,Bike taxi ride,Transportation,False,Credit Card,Expense,1596.06,1596.06,1596.06
+TXN10170,2025-05-20 20:15:45,2025,5,2025-05,Tuesday,0,McDonald's,Burgers and fries meal,Food & Dining,False,UPI,Expense,173.25,173.25,173.25
+TXN10171,2025-05-27 15:05:30,2025,5,2025-05,Tuesday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,1518.18,1518.18,1518.18
+TXN10172,2025-05-28 09:17:49,2025,5,2025-05,Wednesday,0,Nykaa,Skincare & grooming products,Shopping,False,Debit Card,Expense,3219.0,3219.0,3219.0
+TXN10173,2025-05-28 10:28:34,2025,5,2025-05,Wednesday,0,Airtel,Postpaid mobile bill,Utilities & Bills,False,Credit Card,Expense,2298.92,2298.92,2298.92
+TXN10174,2025-05-28 14:39:43,2025,5,2025-05,Wednesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,815.31,815.31,815.31
+TXN10175,2025-05-28 16:24:20,2025,5,2025-05,Wednesday,0,FASTag,National highway toll recharge,Transportation,False,Credit Card,Expense,816.56,816.56,816.56
+TXN10176,2025-05-28 16:52:00,2025,5,2025-05,Wednesday,0,Shell,Premium petrol refill,Transportation,False,UPI,Expense,776.82,776.82,776.82
+TXN10177,2025-05-28 20:26:02,2025,5,2025-05,Wednesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Debit Card,Expense,3035.65,3035.65,3035.65
+TXN10178,2025-05-29 08:02:20,2025,5,2025-05,Thursday,0,Myntra,"Apparel, footwear and fashion",Shopping,False,UPI,Expense,3367.71,3367.71,3367.71
+TXN10179,2025-05-30 19:18:32,2025,5,2025-05,Friday,0,Indian Oil,Vehicle fuel petrol pump,Transportation,False,Cash,Expense,1347.13,1347.13,1347.13
+TXN10180,2025-05-31 23:54:00,2025,5,2025-05,Saturday,1,Shell,Highway fuel refill late night,Transportation,False,Credit Card,Expense,2100.0,2100.0,2100.0
+TXN10181,2025-06-01 00:06:00,2025,6,2025-06,Sunday,1,House Rent,Monthly residential rent transfer,Housing & Maintenance,False,Net Banking,Expense,25000.0,25000.0,25000.0
+TXN10182,2025-06-01 13:50:50,2025,6,2025-06,Sunday,1,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,176.83,176.83,176.83
+TXN10183,2025-06-03 18:13:41,2025,6,2025-06,Tuesday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,147.39,147.39,147.39
+TXN10184,2025-06-04 11:56:34,2025,6,2025-06,Wednesday,0,Chai Point,Evening tea and snacks,Food & Dining,False,Net Banking,Expense,780.72,780.72,780.72
+TXN10185,2025-06-05 10:34:16,2025,6,2025-06,Thursday,0,Amazon,Electronics and home essentials,Shopping,False,UPI,Expense,5788.46,5788.46,5788.46
+TXN10186,2025-06-05 18:06:57,2025,6,2025-06,Thursday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,542.67,542.67,542.67
+TXN10187,2025-06-05 19:26:33,2025,6,2025-06,Thursday,0,Swiggy,Online food delivery order,Food & Dining,False,Debit Card,Expense,959.62,959.62,959.62
+TXN10188,2025-06-05 20:36:13,2025,6,2025-06,Thursday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Credit Card,Expense,1092.15,1092.15,1092.15
+TXN10189,2025-06-07 10:50:34,2025,6,2025-06,Saturday,1,BookMyShow,Cinema weekend movie tickets,Entertainment & Leisure,False,Net Banking,Expense,836.55,836.55,836.55
+TXN10190,2025-06-09 16:07:29,2025,6,2025-06,Monday,0,BigBasket,Monthly grocery staples,Groceries,False,Debit Card,Expense,2559.01,2559.01,2559.01
+TXN10191,2025-06-12 08:25:17,2025,6,2025-06,Thursday,0,Swiggy,Online food delivery order,Food & Dining,False,Debit Card,Expense,1763.32,1763.32,1763.32
+TXN10192,2025-06-12 09:43:14,2025,6,2025-06,Thursday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,Credit Card,Expense,3412.19,3412.19,3412.19
+TXN10193,2025-06-13 12:00:36,2025,6,2025-06,Friday,0,Netflix,Monthly 4K streaming plan,Entertainment & Leisure,False,Credit Card,Expense,1292.65,1292.65,1292.65
+TXN10194,2025-06-13 14:43:06,2025,6,2025-06,Friday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,696.19,696.19,696.19
+TXN10195,2025-06-15 15:15:54,2025,6,2025-06,Sunday,1,BigBasket,Monthly grocery staples,Groceries,False,Cash,Expense,2400.64,2400.64,2400.64
+TXN10196,2025-06-15 16:35:35,2025,6,2025-06,Sunday,1,Uber,Work commute ride to tech park,Transportation,True,UPI,Expense,854.03,854.03,854.03
+TXN10197,2025-06-17 17:06:28,2025,6,2025-06,Tuesday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,Debit Card,Expense,595.27,595.27,595.27
+TXN10198,2025-06-19 13:36:18,2025,6,2025-06,Thursday,0,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,Debit Card,Expense,1787.98,1787.98,1787.98
+TXN10199,2025-06-19 13:46:08,2025,6,2025-06,Thursday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,705.42,705.42,705.42
+TXN10200,2025-06-20 10:04:08,2025,6,2025-06,Friday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,2416.01,2416.01,2416.01
+TXN10201,2025-06-20 16:18:29,2025,6,2025-06,Friday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,Credit Card,Expense,782.25,782.25,782.25
+TXN10202,2025-06-20 19:02:11,2025,6,2025-06,Friday,0,Apollo Pharmacy,First aid and cold medicines,Healthcare & Wellness,True,Credit Card,Expense,2336.16,2336.16,2336.16
+TXN10203,2025-06-21 11:39:16,2025,6,2025-06,Saturday,1,Delhi Metro,Smart card top-up,Transportation,False,Credit Card,Expense,1244.23,1244.23,1244.23
+TXN10204,2025-06-21 14:07:08,2025,6,2025-06,Saturday,1,Swiggy,Online food delivery order,Food & Dining,False,Credit Card,Expense,667.42,667.42,667.42
+TXN10205,2025-06-23 16:26:37,2025,6,2025-06,Monday,0,Flipkart,Books and household items,Shopping,False,Credit Card,Expense,7583.31,7583.31,7583.31
+TXN10206,2025-06-25 18:01:46,2025,6,2025-06,Wednesday,0,Zomato,Missing items refund credited,Food & Dining,False,UPI,Refund,-320.0,-320.0,320.0
+TXN10207,2025-06-27 10:16:58,2025,6,2025-06,Friday,0,Nykaa,Skincare & grooming products,Shopping,False,UPI,Expense,8239.07,8239.07,8239.07
+TXN10208,2025-06-27 15:39:26,2025,6,2025-06,Friday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,UPI,Expense,298.15,298.15,298.15
+TXN10209,2025-06-27 21:14:21,2025,6,2025-06,Friday,0,Croma,Gadgets and mobile accessories,Shopping,False,Debit Card,Expense,522.68,522.68,522.68
+TXN10210,2025-06-27 22:57:18,2025,6,2025-06,Friday,0,Flipkart,Books and household items,Shopping,False,UPI,Expense,5356.52,5356.52,5356.52
+TXN10211,2025-06-28 13:51:07,2025,6,2025-06,Saturday,1,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,Cash,Expense,921.54,921.54,921.54
+TXN10212,2025-06-28 18:33:19,2025,6,2025-06,Saturday,1,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,Credit Card,Expense,653.77,653.77,653.77
+TXN10213,2025-06-28 18:41:56,2025,6,2025-06,Saturday,1,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,7423.94,7423.94,7423.94
+TXN10214,2025-06-28 18:46:43,2025,6,2025-06,Saturday,1,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,UPI,Expense,3620.12,3620.12,3620.12
+TXN10215,2025-06-30 17:14:41,2025,6,2025-06,Monday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,Credit Card,Expense,939.25,939.25,939.25
+TXN10216,2025-06-30 23:59:00,2025,6,2025-06,Monday,0,Swiggy,Quarter-end late meal,Food & Dining,False,UPI,Expense,420.0,420.0,420.0
+TXN10217,2025-07-01 00:01:00,2025,7,2025-07,Tuesday,0,Uber,Early morning cab to railway station,Transportation,False,UPI,Expense,450.0,450.0,450.0
+TXN10218,2025-07-02 13:32:04,2025,7,2025-07,Wednesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,398.55,398.55,398.55
+TXN10219,2025-07-02 14:01:29,2025,7,2025-07,Wednesday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,Credit Card,Expense,1927.28,1927.28,1927.28
+TXN10220,2025-07-04 14:35:05,2025,7,2025-07,Friday,0,Swiggy,Late night snack delivery,Food & Dining,True,Credit Card,Expense,1164.77,1164.77,1164.77
+TXN10221,2025-07-05 10:48:39,2025,7,2025-07,Saturday,1,Swiggy,Online food delivery order,Food & Dining,False,Credit Card,Expense,612.57,612.57,612.57
+TXN10222,2025-07-05 12:12:11,2025,7,2025-07,Saturday,1,FASTag,National highway toll recharge,Transportation,False,UPI,Expense,1231.5,1231.5,1231.5
+TXN10223,2025-07-08 13:49:10,2025,7,2025-07,Tuesday,0,Dominos,Weekend pizza party,Food & Dining,False,Credit Card,Expense,343.85,343.85,343.85
+TXN10224,2025-07-08 14:37:25,2025,7,2025-07,Tuesday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,Credit Card,Expense,3366.26,3366.26,3366.26
+TXN10225,2025-07-08 18:09:48,2025,7,2025-07,Tuesday,0,Swiggy,Late night snack delivery,Food & Dining,True,Credit Card,Expense,1545.17,1545.17,1545.17
+TXN10226,2025-07-09 13:09:43,2025,7,2025-07,Wednesday,0,Apollo Pharmacy,Prescription medicines & vitamins,Healthcare & Wellness,False,UPI,Expense,473.67,473.67,473.67
+TXN10227,2025-07-10 13:07:00,2025,7,2025-07,Thursday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,1038.58,1038.58,1038.58
+TXN10228,2025-07-10 18:43:37,2025,7,2025-07,Thursday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,UPI,Expense,1483.2,1483.2,1483.2
+TXN10229,2025-07-11 10:28:04,2025,7,2025-07,Friday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,UPI,Expense,1464.45,1464.45,1464.45
+TXN10230,2025-07-12 08:11:55,2025,7,2025-07,Saturday,1,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,831.33,831.33,831.33
+TXN10231,2025-07-12 12:46:20,2025,7,2025-07,Saturday,1,Croma,Gadgets and mobile accessories,Shopping,False,Net Banking,Expense,5269.79,5269.79,5269.79
+TXN10232,2025-07-14 09:47:47,2025,7,2025-07,Monday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Credit Card,Expense,2447.66,2447.66,2447.66
+TXN10233,2025-07-14 13:52:29,2025,7,2025-07,Monday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,1484.57,1484.57,1484.57
+TXN10234,2025-07-14 17:45:13,2025,7,2025-07,Monday,0,Myntra,Size exchange return refund,Shopping,False,UPI,Refund,-1850.0,-1850.0,1850.0
+TXN10235,2025-07-14 21:58:46,2025,7,2025-07,Monday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,1170.7,1170.7,1170.7
+TXN10236,2025-07-16 17:28:26,2025,7,2025-07,Wednesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,699.58,699.58,699.58
+TXN10237,2025-07-18 13:07:48,2025,7,2025-07,Friday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,3438.52,3438.52,3438.52
+TXN10238,2025-07-18 16:21:42,2025,7,2025-07,Friday,0,Starbucks,Coffee and snacks,Food & Dining,False,Net Banking,Expense,1635.13,1635.13,1635.13
+TXN10239,2025-07-19 16:13:09,2025,7,2025-07,Saturday,1,Ola,Auto ride city commute,Transportation,False,UPI,Expense,1366.33,1366.33,1366.33
+TXN10240,2025-07-20 08:00:13,2025,7,2025-07,Sunday,1,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,3281.03,3281.03,3281.03
+TXN10241,2025-07-21 08:05:47,2025,7,2025-07,Monday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,1856.44,1856.44,1856.44
+TXN10242,2025-07-23 11:32:35,2025,7,2025-07,Wednesday,0,BookMyShow,Cinema weekend movie tickets,Entertainment & Leisure,False,Debit Card,Expense,285.56,285.56,285.56
+TXN10243,2025-07-23 18:26:18,2025,7,2025-07,Wednesday,0,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,1792.54,1792.54,1792.54
+TXN10244,2025-07-25 21:39:39,2025,7,2025-07,Friday,0,Shell,Premium petrol refill,Transportation,False,Net Banking,Expense,110.17,110.17,110.17
+TXN10245,2025-07-27 19:17:01,2025,7,2025-07,Sunday,1,Dominos,Weekend pizza party,Food & Dining,False,Net Banking,Expense,1446.1,1446.1,1446.1
+TXN10246,2025-07-29 20:22:22,2025,7,2025-07,Tuesday,0,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,7020.3,7020.3,7020.3
+TXN10247,2025-07-30 22:36:41,2025,7,2025-07,Wednesday,0,Shell,Premium petrol refill,Transportation,False,Cash,Expense,564.51,564.51,564.51
+TXN10248,2025-07-31 17:29:53,2025,7,2025-07,Thursday,0,Rapido,Bike taxi ride,Transportation,False,Debit Card,Expense,204.84,204.84,204.84
+TXN10249,2025-07-31 20:40:31,2025,7,2025-07,Thursday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,UPI,Expense,2995.59,2995.59,2995.59
+TXN10250,2025-07-31 23:55:00,2025,7,2025-07,Thursday,0,BookMyShow,Weekend movie advance booking,Entertainment & Leisure,False,Debit Card,Expense,820.0,820.0,820.0
+TXN10251,2025-08-01 00:05:00,2025,8,2025-08,Friday,0,Apollo Pharmacy,Emergency night medical supplies,Healthcare & Wellness,False,UPI,Expense,460.0,460.0,460.0
+TXN10252,2025-08-01 13:19:11,2025,8,2025-08,Friday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,Credit Card,Expense,3043.0,3043.0,3043.0
+TXN10253,2025-08-01 17:22:15,2025,8,2025-08,Friday,0,Ola,Auto ride city commute,Transportation,False,UPI,Expense,1086.49,1086.49,1086.49
+TXN10254,2025-08-02 13:26:24,2025,8,2025-08,Saturday,1,Blinkit,Instant snacks and beverages,Groceries,True,Debit Card,Expense,2003.13,2003.13,2003.13
+TXN10255,2025-08-03 12:35:24,2025,8,2025-08,Sunday,1,Rapido,Bike taxi ride,Transportation,False,Credit Card,Expense,1314.17,1314.17,1314.17
+TXN10256,2025-08-03 18:55:54,2025,8,2025-08,Sunday,1,McDonald's,Burgers and fries meal,Food & Dining,False,Credit Card,Expense,1012.02,1012.02,1012.02
+TXN10257,2025-08-04 16:43:24,2025,8,2025-08,Monday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,3699.45,3699.45,3699.45
+TXN10258,2025-08-05 10:11:53,2025,8,2025-08,Tuesday,0,Shell,Premium petrol refill,Transportation,False,UPI,Expense,1307.84,1307.84,1307.84
+TXN10259,2025-08-05 21:16:03,2025,8,2025-08,Tuesday,0,FASTag,National highway toll recharge,Transportation,False,Net Banking,Expense,637.95,637.95,637.95
+TXN10260,2025-08-08 10:09:04,2025,8,2025-08,Friday,0,Blinkit,Instant grocery essentials,Groceries,False,Credit Card,Expense,2255.37,2255.37,2255.37
+TXN10261,2025-08-08 14:40:50,2025,8,2025-08,Friday,0,Uber,Cab ride to workplace/airport,Transportation,False,Net Banking,Expense,239.61,239.61,239.61
+TXN10262,2025-08-10 20:24:32,2025,8,2025-08,Sunday,1,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,Debit Card,Expense,3186.59,3186.59,3186.59
+TXN10263,2025-08-10 22:53:30,2025,8,2025-08,Sunday,1,Ola,Auto ride city commute,Transportation,False,Credit Card,Expense,1231.03,1231.03,1231.03
+TXN10264,2025-08-11 11:36:15,2025,8,2025-08,Monday,0,Zomato,Office team lunch order,Food & Dining,True,Credit Card,Expense,1113.38,1113.38,1113.38
+TXN10265,2025-08-11 19:05:32,2025,8,2025-08,Monday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,449.05,449.05,449.05
+TXN10266,2025-08-12 09:33:34,2025,8,2025-08,Tuesday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,UPI,Expense,2306.41,2306.41,2306.41
+TXN10267,2025-08-12 11:01:20,2025,8,2025-08,Tuesday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,UPI,Expense,2574.14,2574.14,2574.14
+TXN10268,2025-08-15 08:26:23,2025,8,2025-08,Friday,0,Ola,Auto ride city commute,Transportation,False,Credit Card,Expense,1553.47,1553.47,1553.47
+TXN10269,2025-08-15 16:33:39,2025,8,2025-08,Friday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,1710.49,1710.49,1710.49
+TXN10270,2025-08-16 22:53:12,2025,8,2025-08,Saturday,1,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,4138.54,4138.54,4138.54
+TXN10271,2025-08-18 20:47:57,2025,8,2025-08,Monday,0,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,1121.82,1121.82,1121.82
+TXN10272,2025-08-19 17:51:18,2025,8,2025-08,Tuesday,0,Airtel,Double recharge reversal credit,Utilities & Bills,False,UPI,Refund,-799.0,-799.0,799.0
+TXN10273,2025-08-19 18:09:58,2025,8,2025-08,Tuesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Credit Card,Expense,759.36,759.36,759.36
+TXN10274,2025-08-20 08:57:05,2025,8,2025-08,Wednesday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Credit Card,Expense,1569.44,1569.44,1569.44
+TXN10275,2025-08-20 15:32:09,2025,8,2025-08,Wednesday,0,Pharmeasy,Healthcare supplements & first aid,Healthcare & Wellness,False,Net Banking,Expense,510.51,510.51,510.51
+TXN10276,2025-08-20 16:01:40,2025,8,2025-08,Wednesday,0,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,UPI,Expense,2857.12,2857.12,2857.12
+TXN10277,2025-08-23 21:33:54,2025,8,2025-08,Saturday,1,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,1447.3,1447.3,1447.3
+TXN10278,2025-08-24 17:33:27,2025,8,2025-08,Sunday,1,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,553.99,553.99,553.99
+TXN10279,2025-08-24 22:33:02,2025,8,2025-08,Sunday,1,FASTag,National highway toll recharge,Transportation,False,Credit Card,Expense,1015.59,1015.59,1015.59
+TXN10280,2025-08-25 13:43:38,2025,8,2025-08,Monday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,1250.42,1250.42,1250.42
+TXN10281,2025-08-25 19:50:28,2025,8,2025-08,Monday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Debit Card,Expense,676.1,676.1,676.1
+TXN10282,2025-08-27 19:43:58,2025,8,2025-08,Wednesday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,Credit Card,Expense,2696.03,2696.03,2696.03
+TXN10283,2025-08-29 16:09:53,2025,8,2025-08,Friday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Net Banking,Expense,3475.98,3475.98,3475.98
+TXN10284,2025-08-30 08:26:03,2025,8,2025-08,Saturday,1,BigBasket,Monthly grocery staples,Groceries,False,Cash,Expense,1181.32,1181.32,1181.32
+TXN10285,2025-08-31 23:50:00,2025,8,2025-08,Sunday,1,Zepto,Midnight dairy and snacks order,Groceries,False,UPI,Expense,290.0,290.0,290.0
+TXN10286,2025-09-01 00:10:00,2025,9,2025-09,Monday,0,Spotify,Annual premium family plan renewal,Entertainment & Leisure,False,Credit Card,Expense,1799.0,1799.0,1799.0
+TXN10287,2025-09-01 10:54:38,2025,9,2025-09,Monday,0,Indian Oil,Vehicle fuel petrol pump,Transportation,False,UPI,Expense,123.24,123.24,123.24
+TXN10288,2025-09-02 09:42:40,2025,9,2025-09,Tuesday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,3414.33,3414.33,3414.33
+TXN10289,2025-09-02 12:12:02,2025,9,2025-09,Tuesday,0,Amazon,Electronics and home essentials,Shopping,False,UPI,Expense,3024.77,3024.77,3024.77
+TXN10290,2025-09-02 13:34:21,2025,9,2025-09,Tuesday,0,Flipkart,Books and household items,Shopping,False,Credit Card,Expense,7143.07,7143.07,7143.07
+TXN10291,2025-09-02 18:24:23,2025,9,2025-09,Tuesday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,1660.52,1660.52,1660.52
+TXN10292,2025-09-02 21:07:33,2025,9,2025-09,Tuesday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Net Banking,Expense,425.34,425.34,425.34
+TXN10293,2025-09-02 21:41:21,2025,9,2025-09,Tuesday,0,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,1975.96,1975.96,1975.96
+TXN10294,2025-09-04 11:50:08,2025,9,2025-09,Thursday,0,Chai Point,Evening tea and snacks,Food & Dining,False,Credit Card,Expense,194.68,194.68,194.68
+TXN10295,2025-09-06 19:45:59,2025,9,2025-09,Saturday,1,Ola,Auto ride city commute,Transportation,False,Credit Card,Expense,1284.36,1284.36,1284.36
+TXN10296,2025-09-08 13:33:57,2025,9,2025-09,Monday,0,Blinkit,Instant grocery essentials,Groceries,False,Credit Card,Expense,1239.89,1239.89,1239.89
+TXN10297,2025-09-08 19:42:40,2025,9,2025-09,Monday,0,McDonald's,Burgers and fries meal,Food & Dining,False,UPI,Expense,1399.82,1399.82,1399.82
+TXN10298,2025-09-09 18:33:10,2025,9,2025-09,Tuesday,0,Apollo Pharmacy,First aid and cold medicines,Healthcare & Wellness,True,UPI,Expense,1776.23,1776.23,1776.23
+TXN10299,2025-09-11 18:04:28,2025,9,2025-09,Thursday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,Net Banking,Expense,1604.12,1604.12,1604.12
+TXN10300,2025-09-11 18:17:15,2025,9,2025-09,Thursday,0,Society Maintenance,Apartment monthly society dues,Housing & Maintenance,False,Credit Card,Expense,20916.09,20916.09,20916.09
+TXN10301,2025-09-11 18:22:45,2025,9,2025-09,Thursday,0,McDonald's,Burgers and fries meal,Food & Dining,False,UPI,Expense,643.62,643.62,643.62
+TXN10302,2025-09-12 15:48:47,2025,9,2025-09,Friday,0,Apollo Pharmacy,First aid and cold medicines,Healthcare & Wellness,True,Debit Card,Expense,521.89,521.89,521.89
+TXN10303,2025-09-12 15:51:35,2025,9,2025-09,Friday,0,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,261.77,261.77,261.77
+TXN10304,2025-09-13 21:34:30,2025,9,2025-09,Saturday,1,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,1380.14,1380.14,1380.14
+TXN10305,2025-09-13 22:35:07,2025,9,2025-09,Saturday,1,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,3030.95,3030.95,3030.95
+TXN10306,2025-09-15 10:57:45,2025,9,2025-09,Monday,0,Electricity Bill,Monthly home electricity payment,Utilities & Bills,False,Cash,Expense,3165.22,3165.22,3165.22
+TXN10307,2025-09-15 13:23:28,2025,9,2025-09,Monday,0,Croma,Gadgets and mobile accessories,Shopping,False,UPI,Expense,1601.56,1601.56,1601.56
+TXN10308,2025-09-15 17:45:27,2025,9,2025-09,Monday,0,Chai Point,Evening tea and snacks,Food & Dining,False,UPI,Expense,747.63,747.63,747.63
+TXN10309,2025-09-15 22:24:21,2025,9,2025-09,Monday,0,House Rent,Monthly apartment residential rent,Housing & Maintenance,False,Credit Card,Expense,25500.0,25500.0,25500.0
+TXN10310,2025-09-18 12:08:40,2025,9,2025-09,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,619.04,619.04,619.04
+TXN10311,2025-09-19 17:09:10,2025,9,2025-09,Friday,0,Delhi Metro,Smart card top-up,Transportation,False,UPI,Expense,1450.06,1450.06,1450.06
+TXN10312,2025-09-20 12:44:58,2025,9,2025-09,Saturday,1,Urban Company,Home deep cleaning & AC repair,Housing & Maintenance,False,Debit Card,Expense,4486.68,4486.68,4486.68
+TXN10313,2025-09-23 15:40:11,2025,9,2025-09,Tuesday,0,Amazon,Electronics and home essentials,Shopping,False,Net Banking,Expense,6228.36,6228.36,6228.36
+TXN10314,2025-09-23 19:30:33,2025,9,2025-09,Tuesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,3502.19,3502.19,3502.19
+TXN10315,2025-09-25 16:40:37,2025,9,2025-09,Thursday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Net Banking,Expense,885.45,885.45,885.45
+TXN10316,2025-09-25 18:23:23,2025,9,2025-09,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,377.92,377.92,377.92
+TXN10317,2025-09-27 10:34:18,2025,9,2025-09,Saturday,1,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,1545.28,1545.28,1545.28
+TXN10318,2025-09-27 11:52:54,2025,9,2025-09,Saturday,1,Amazon,Festival offer cashback and return credit,Shopping,False,Credit Card,Refund,-3450.0,-3450.0,3450.0
+TXN10319,2025-09-28 22:22:39,2025,9,2025-09,Sunday,1,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,Debit Card,Expense,18337.78,18337.78,18337.78
+TXN10320,2025-09-30 20:33:17,2025,9,2025-09,Tuesday,0,Zara,Casual clothing purchase,Shopping,False,UPI,Expense,3896.0,3896.0,3896.0
+TXN10321,2025-09-30 23:48:00,2025,9,2025-09,Tuesday,0,Amazon,Great Indian Festival advance cart order,Shopping,False,Credit Card,Expense,4999.0,4999.0,4999.0
+TXN10322,2025-10-01 00:12:00,2025,10,2025-10,Wednesday,0,Society Maintenance,Quarter 4 society maintenance charge,Housing & Maintenance,False,Net Banking,Expense,4500.0,4500.0,4500.0
+TXN10323,2025-10-02 08:02:08,2025,10,2025-10,Thursday,0,FASTag,National highway toll recharge,Transportation,False,Credit Card,Expense,794.83,794.83,794.83
+TXN10324,2025-10-02 10:28:26,2025,10,2025-10,Thursday,0,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,UPI,Expense,1589.65,1589.65,1589.65
+TXN10325,2025-10-02 17:44:07,2025,10,2025-10,Thursday,0,Chai Point,Evening tea and snacks,Food & Dining,False,UPI,Expense,683.28,683.28,683.28
+TXN10326,2025-10-02 19:08:33,2025,10,2025-10,Thursday,0,Starbucks,Coffee and snacks,Food & Dining,False,Credit Card,Expense,1846.81,1846.81,1846.81
+TXN10327,2025-10-02 21:55:01,2025,10,2025-10,Thursday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,1460.74,1460.74,1460.74
+TXN10328,2025-10-05 09:03:18,2025,10,2025-10,Sunday,1,Pharmeasy,Healthcare supplements & first aid,Healthcare & Wellness,False,Debit Card,Expense,944.81,944.81,944.81
+TXN10329,2025-10-06 21:20:59,2025,10,2025-10,Monday,0,Rapido,Bike taxi ride,Transportation,False,UPI,Expense,360.45,360.45,360.45
+TXN10330,2025-10-07 20:36:26,2025,10,2025-10,Tuesday,0,Uber,Cab ride to workplace/airport,Transportation,False,Credit Card,Expense,832.0,832.0,832.0
+TXN10331,2025-10-08 12:35:19,2025,10,2025-10,Wednesday,0,Starbucks,Coffee and snacks,Food & Dining,False,Credit Card,Expense,1461.0,1461.0,1461.0
+TXN10332,2025-10-09 12:07:36,2025,10,2025-10,Thursday,0,Indian Oil,Vehicle fuel petrol pump,Transportation,False,UPI,Expense,1440.51,1440.51,1440.51
+TXN10333,2025-10-09 21:39:43,2025,10,2025-10,Thursday,0,Ola,Auto ride city commute,Transportation,False,UPI,Expense,1561.88,1561.88,1561.88
+TXN10334,2025-10-10 13:17:31,2025,10,2025-10,Friday,0,Uber,Work commute ride to tech park,Transportation,True,UPI,Expense,293.28,293.28,293.28
+TXN10335,2025-10-10 18:19:30,2025,10,2025-10,Friday,0,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,1424.86,1424.86,1424.86
+TXN10336,2025-10-12 16:35:06,2025,10,2025-10,Sunday,1,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,733.96,733.96,733.96
+TXN10337,2025-10-12 16:43:31,2025,10,2025-10,Sunday,1,Cult.fit,Session cancellation refund,Healthcare & Wellness,False,UPI,Refund,-600.0,-600.0,600.0
+TXN10338,2025-10-12 20:51:09,2025,10,2025-10,Sunday,1,BigBasket,Monthly grocery staples,Groceries,False,UPI,Expense,4023.49,4023.49,4023.49
+TXN10339,2025-10-13 13:11:29,2025,10,2025-10,Monday,0,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,Credit Card,Expense,1838.82,1838.82,1838.82
+TXN10340,2025-10-14 17:19:50,2025,10,2025-10,Tuesday,0,Netflix,Monthly 4K streaming plan,Entertainment & Leisure,False,UPI,Expense,915.89,915.89,915.89
+TXN10341,2025-10-15 11:13:37,2025,10,2025-10,Wednesday,0,Blinkit,Instant grocery essentials,Groceries,False,Credit Card,Expense,1361.36,1361.36,1361.36
+TXN10342,2025-10-17 15:31:56,2025,10,2025-10,Friday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,605.69,605.69,605.69
+TXN10343,2025-10-17 18:46:39,2025,10,2025-10,Friday,0,Nykaa,Skincare & grooming products,Shopping,False,Credit Card,Expense,1682.21,1682.21,1682.21
+TXN10344,2025-10-18 11:23:35,2025,10,2025-10,Saturday,1,D-Mart,Supermarket bulk provisions,Groceries,False,Debit Card,Expense,2241.81,2241.81,2241.81
+TXN10345,2025-10-18 20:22:03,2025,10,2025-10,Saturday,1,Zomato,Office team lunch order,Food & Dining,True,UPI,Expense,316.07,316.07,316.07
+TXN10346,2025-10-20 19:53:19,2025,10,2025-10,Monday,0,Shell,Premium petrol refill,Transportation,False,Credit Card,Expense,1337.28,1337.28,1337.28
+TXN10347,2025-10-20 22:32:08,2025,10,2025-10,Monday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,UPI,Expense,1508.19,1508.19,1508.19
+TXN10348,2025-10-21 20:49:37,2025,10,2025-10,Tuesday,0,Delhi Metro,Smart card top-up,Transportation,False,Credit Card,Expense,148.57,148.57,148.57
+TXN10349,2025-10-23 11:26:32,2025,10,2025-10,Thursday,0,Nykaa,Skincare & grooming products,Shopping,False,Credit Card,Expense,7482.54,7482.54,7482.54
+TXN10350,2025-10-23 17:19:30,2025,10,2025-10,Thursday,0,Myntra,"Apparel, footwear and fashion",Shopping,False,UPI,Expense,3149.92,3149.92,3149.92
+TXN10351,2025-10-23 19:31:20,2025,10,2025-10,Thursday,0,ACT Fibernet,Home high-speed internet subscription,Utilities & Bills,False,Debit Card,Expense,3577.9,3577.9,3577.9
+TXN10352,2025-10-26 13:35:23,2025,10,2025-10,Sunday,1,Flipkart,Books and household items,Shopping,False,UPI,Expense,5319.7,5319.7,5319.7
+TXN10353,2025-10-27 18:43:30,2025,10,2025-10,Monday,0,Blinkit,Instant grocery essentials,Groceries,False,UPI,Expense,3596.33,3596.33,3596.33
+TXN10354,2025-10-28 19:20:46,2025,10,2025-10,Tuesday,0,Maid Salary,Monthly domestic helper remuneration,Housing & Maintenance,False,UPI,Expense,27340.03,27340.03,27340.03
+TXN10355,2025-10-28 19:43:41,2025,10,2025-10,Tuesday,0,Myntra,"Apparel, footwear and fashion",Shopping,False,UPI,Expense,5380.61,5380.61,5380.61
+TXN10356,2025-10-29 12:46:23,2025,10,2025-10,Wednesday,0,Myntra,"Apparel, footwear and fashion",Shopping,False,UPI,Expense,861.94,861.94,861.94
+TXN10357,2025-10-30 15:41:16,2025,10,2025-10,Thursday,0,Flipkart,Books and household items,Shopping,False,Credit Card,Expense,2116.54,2116.54,2116.54
+TXN10358,2025-10-31 23:56:00,2025,10,2025-10,Friday,0,Zomato,Halloween party food delivery,Food & Dining,False,UPI,Expense,1450.0,1450.0,1450.0
+TXN10359,2025-11-01 00:04:00,2025,11,2025-11,Saturday,1,Airtel,Monthly mobile postpaid recharge,Utilities & Bills,False,UPI,Expense,599.0,599.0,599.0
+TXN10360,2025-11-02 14:22:44,2025,11,2025-11,Sunday,1,Swiggy,Online food delivery order,Food & Dining,False,UPI,Expense,1738.79,1738.79,1738.79
+TXN10361,2025-11-02 15:08:32,2025,11,2025-11,Sunday,1,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,478.06,478.06,478.06
+TXN10362,2025-11-04 18:13:45,2025,11,2025-11,Tuesday,0,Uber,Cab ride to workplace/airport,Transportation,False,UPI,Expense,1445.3,1445.3,1445.3
+TXN10363,2025-11-04 18:49:08,2025,11,2025-11,Tuesday,0,McDonald's,Burgers and fries meal,Food & Dining,False,UPI,Expense,1812.45,1812.45,1812.45
+TXN10364,2025-11-06 17:54:40,2025,11,2025-11,Thursday,0,PVR Cinemas,IMAX tickets and popcorn combo,Entertainment & Leisure,False,UPI,Expense,817.85,817.85,817.85
+TXN10365,2025-11-09 19:11:00,2025,11,2025-11,Sunday,1,Myntra,"Apparel, footwear and fashion",Shopping,False,Debit Card,Expense,5042.25,5042.25,5042.25
+TXN10366,2025-11-10 13:39:14,2025,11,2025-11,Monday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Credit Card,Expense,962.91,962.91,962.91
+TXN10367,2025-11-10 15:19:30,2025,11,2025-11,Monday,0,Blinkit,Instant snacks and beverages,Groceries,True,Credit Card,Expense,2011.0,2011.0,2011.0
+TXN10368,2025-11-11 12:29:41,2025,11,2025-11,Tuesday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,UPI,Expense,3429.02,3429.02,3429.02
+TXN10369,2025-11-11 12:41:03,2025,11,2025-11,Tuesday,0,Apollo Pharmacy,Prescription medicines & vitamins,Healthcare & Wellness,False,UPI,Expense,2156.9,2156.9,2156.9
+TXN10370,2025-11-12 10:17:12,2025,11,2025-11,Wednesday,0,Apollo Pharmacy,Prescription medicines & vitamins,Healthcare & Wellness,False,Credit Card,Expense,296.65,296.65,296.65
+TXN10371,2025-11-12 18:49:39,2025,11,2025-11,Wednesday,0,Zomato,Office team lunch order,Food & Dining,True,Credit Card,Expense,1773.26,1773.26,1773.26
+TXN10372,2025-11-13 16:08:46,2025,11,2025-11,Thursday,0,Society Maintenance,Apartment monthly society dues,Housing & Maintenance,False,Cash,Expense,21465.61,21465.61,21465.61
+TXN10373,2025-11-15 16:45:23,2025,11,2025-11,Saturday,1,McDonald's,Burgers and fries meal,Food & Dining,False,Debit Card,Expense,340.75,340.75,340.75
+TXN10374,2025-11-15 18:46:34,2025,11,2025-11,Saturday,1,D-Mart,Supermarket bulk provisions,Groceries,False,UPI,Expense,3502.27,3502.27,3502.27
+TXN10375,2025-11-15 20:17:21,2025,11,2025-11,Saturday,1,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,295.17,295.17,295.17
+TXN10376,2025-11-16 12:40:19,2025,11,2025-11,Sunday,1,Zepto,Out of stock items refund,Groceries,False,UPI,Refund,-285.0,-285.0,285.0
+TXN10377,2025-11-17 15:17:12,2025,11,2025-11,Monday,0,Myntra,"Apparel, footwear and fashion",Shopping,False,Credit Card,Expense,1799.95,1799.95,1799.95
+TXN10378,2025-11-20 13:26:44,2025,11,2025-11,Thursday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,Debit Card,Expense,2987.12,2987.12,2987.12
+TXN10379,2025-11-20 20:59:56,2025,11,2025-11,Thursday,0,Spotify,Music streaming subscription,Entertainment & Leisure,False,UPI,Expense,446.5,446.5,446.5
+TXN10380,2025-11-21 14:23:57,2025,11,2025-11,Friday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Credit Card,Expense,1733.8,1733.8,1733.8
+TXN10381,2025-11-21 22:56:56,2025,11,2025-11,Friday,0,Bescom,Bangalore power utility payment,Utilities & Bills,False,Cash,Expense,1118.18,1118.18,1118.18
+TXN10382,2025-11-22 09:11:08,2025,11,2025-11,Saturday,1,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,UPI,Expense,472.88,472.88,472.88
+TXN10383,2025-11-22 21:34:08,2025,11,2025-11,Saturday,1,Rapido,Bike taxi ride,Transportation,False,Cash,Expense,251.51,251.51,251.51
+TXN10384,2025-11-23 11:03:42,2025,11,2025-11,Sunday,1,Starbucks,Coffee and snacks,Food & Dining,False,Credit Card,Expense,421.52,421.52,421.52
+TXN10385,2025-11-23 12:08:06,2025,11,2025-11,Sunday,1,Shell,Premium petrol refill,Transportation,False,UPI,Expense,436.1,436.1,436.1
+TXN10386,2025-11-24 19:54:59,2025,11,2025-11,Monday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Debit Card,Expense,860.4,860.4,860.4
+TXN10387,2025-11-26 12:46:01,2025,11,2025-11,Wednesday,0,Blinkit,Instant grocery essentials,Groceries,False,Credit Card,Expense,3195.93,3195.93,3195.93
+TXN10388,2025-11-27 11:48:15,2025,11,2025-11,Thursday,0,Shell,Premium petrol refill,Transportation,False,UPI,Expense,1405.9,1405.9,1405.9
+TXN10389,2025-11-28 22:18:56,2025,11,2025-11,Friday,0,Starbucks,Coffee and snacks,Food & Dining,False,UPI,Expense,1115.54,1115.54,1115.54
+TXN10390,2025-11-29 16:12:36,2025,11,2025-11,Saturday,1,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,Credit Card,Expense,1549.19,1549.19,1549.19
+TXN10391,2025-11-29 16:14:40,2025,11,2025-11,Saturday,1,Swiggy,Online food delivery order,Food & Dining,False,Credit Card,Expense,852.61,852.61,852.61
+TXN10392,2025-11-30 15:02:18,2025,11,2025-11,Sunday,1,Zepto,"Fruits, milk and vegetables",Groceries,False,Cash,Expense,3275.02,3275.02,3275.02
+TXN10393,2025-11-30 22:02:53,2025,11,2025-11,Sunday,1,D-Mart,Supermarket bulk provisions,Groceries,False,Credit Card,Expense,985.93,985.93,985.93
+TXN10394,2025-11-30 22:56:45,2025,11,2025-11,Sunday,1,Zara,Casual clothing purchase,Shopping,False,Net Banking,Expense,1439.33,1439.33,1439.33
+TXN10395,2025-11-30 23:58:00,2025,11,2025-11,Sunday,1,Myntra,Black Friday end sale shopping,Shopping,False,Credit Card,Expense,3200.0,3200.0,3200.0
+TXN10396,2025-12-01 00:02:00,2025,12,2025-12,Monday,0,House Rent,December home rent disbursement,Housing & Maintenance,False,Net Banking,Expense,25000.0,25000.0,25000.0
+TXN10397,2025-12-02 19:17:50,2025,12,2025-12,Tuesday,0,Electricity Bill,Online power utility bill billdesk,Utilities & Bills,True,Credit Card,Expense,2484.8,2484.8,2484.8
+TXN10398,2025-12-03 19:09:00,2025,12,2025-12,Wednesday,0,Chai Point,Evening tea and snacks,Food & Dining,False,Credit Card,Expense,784.44,784.44,784.44
+TXN10399,2025-12-03 21:42:03,2025,12,2025-12,Wednesday,0,Nykaa,Skincare & grooming products,Shopping,False,Credit Card,Expense,1599.93,1599.93,1599.93
+TXN10400,2025-12-05 11:12:39,2025,12,2025-12,Friday,0,Airtel,Postpaid mobile bill,Utilities & Bills,False,UPI,Expense,1345.54,1345.54,1345.54
+TXN10401,2025-12-06 22:56:34,2025,12,2025-12,Saturday,1,Society Maintenance,Apartment monthly society dues,Housing & Maintenance,False,Debit Card,Expense,15241.71,15241.71,15241.71
+TXN10402,2025-12-07 22:12:47,2025,12,2025-12,Sunday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,UPI,Expense,964.17,964.17,964.17
+TXN10403,2025-12-08 16:13:48,2025,12,2025-12,Monday,0,Netflix,Monthly 4K streaming plan,Entertainment & Leisure,False,Cash,Expense,367.3,367.3,367.3
+TXN10404,2025-12-08 21:58:46,2025,12,2025-12,Monday,0,Shell,Premium petrol refill,Transportation,False,Credit Card,Expense,984.81,984.81,984.81
+TXN10405,2025-12-09 08:35:37,2025,12,2025-12,Tuesday,0,Spotify,Music streaming subscription,Entertainment & Leisure,False,UPI,Expense,950.82,950.82,950.82
+TXN10406,2025-12-09 20:40:31,2025,12,2025-12,Tuesday,0,Amazon,Wireless mouse and desk organizer,Shopping,True,UPI,Expense,1687.61,1687.61,1687.61
+TXN10407,2025-12-10 21:45:09,2025,12,2025-12,Wednesday,0,Amazon,Electronics and home essentials,Shopping,False,Cash,Expense,4999.09,4999.09,4999.09
+TXN10408,2025-12-11 11:19:56,2025,12,2025-12,Thursday,0,Dominos,Weekend pizza party,Food & Dining,False,UPI,Expense,1036.13,1036.13,1036.13
+TXN10409,2025-12-12 14:29:36,2025,12,2025-12,Friday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,Debit Card,Expense,1434.9,1434.9,1434.9
+TXN10410,2025-12-14 08:01:33,2025,12,2025-12,Sunday,1,Croma,Gadgets and mobile accessories,Shopping,False,UPI,Expense,8319.83,8319.83,8319.83
+TXN10411,2025-12-14 10:19:24,2025,12,2025-12,Sunday,1,McDonald's,Burgers and fries meal,Food & Dining,False,Debit Card,Expense,954.98,954.98,954.98
+TXN10412,2025-12-15 17:43:45,2025,12,2025-12,Monday,0,Spotify,Music streaming subscription,Entertainment & Leisure,False,UPI,Expense,1088.39,1088.39,1088.39
+TXN10413,2025-12-15 21:23:05,2025,12,2025-12,Monday,0,Jio,Fiber broadband & 5G recharge,Utilities & Bills,False,UPI,Expense,622.65,622.65,622.65
+TXN10414,2025-12-16 08:22:41,2025,12,2025-12,Tuesday,0,FASTag,National highway toll recharge,Transportation,False,Credit Card,Expense,872.43,872.43,872.43
+TXN10415,2025-12-16 15:10:46,2025,12,2025-12,Tuesday,0,Flipkart,Books and household items,Shopping,False,Credit Card,Expense,1619.67,1619.67,1619.67
+TXN10416,2025-12-16 16:41:43,2025,12,2025-12,Tuesday,0,D-Mart,Supermarket bulk provisions,Groceries,False,Credit Card,Expense,4067.71,4067.71,4067.71
+TXN10417,2025-12-18 11:30:13,2025,12,2025-12,Thursday,0,BookMyShow,Cinema weekend movie tickets,Entertainment & Leisure,False,Net Banking,Expense,563.13,563.13,563.13
+TXN10418,2025-12-18 16:08:24,2025,12,2025-12,Thursday,0,Zepto,"Fruits, milk and vegetables",Groceries,False,UPI,Expense,1554.54,1554.54,1554.54
+TXN10419,2025-12-18 18:22:19,2025,12,2025-12,Thursday,0,Nature's Basket,Organic snacks & gourmet items,Groceries,False,Credit Card,Expense,3737.11,3737.11,3737.11
+TXN10420,2025-12-19 21:14:47,2025,12,2025-12,Friday,0,Starbucks,Coffee and snacks,Food & Dining,False,Credit Card,Expense,1090.63,1090.63,1090.63
+TXN10421,2025-12-20 13:16:42,2025,12,2025-12,Saturday,1,MakeMyTrip,Flight seat upgrade cancellation refund,Transportation,False,UPI,Refund,-1250.0,-1250.0,1250.0
+TXN10422,2025-12-20 17:02:55,2025,12,2025-12,Saturday,1,Haldiram's,Lunch thali & sweets,Food & Dining,False,Credit Card,Expense,1444.88,1444.88,1444.88
+TXN10423,2025-12-20 19:13:25,2025,12,2025-12,Saturday,1,Cult.fit,Monthly fitness center access,Healthcare & Wellness,False,UPI,Expense,2526.54,2526.54,2526.54
+TXN10424,2025-12-22 22:39:58,2025,12,2025-12,Monday,0,Adani Gas,Piped natural gas monthly utility,Utilities & Bills,False,Credit Card,Expense,502.7,502.7,502.7
+TXN10425,2025-12-24 14:18:09,2025,12,2025-12,Wednesday,0,Zomato,Restaurant meal delivery,Food & Dining,False,Debit Card,Expense,795.73,795.73,795.73
+TXN10426,2025-12-26 19:30:48,2025,12,2025-12,Friday,0,Spotify,Music streaming subscription,Entertainment & Leisure,False,UPI,Expense,644.22,644.22,644.22
+TXN10427,2025-12-27 19:43:27,2025,12,2025-12,Saturday,1,Flipkart,Books and household items,Shopping,False,UPI,Expense,1356.13,1356.13,1356.13
+TXN10428,2025-12-31 23:55:00,2025,12,2025-12,Wednesday,0,Swiggy,New Year Eve party food & beverage order,Food & Dining,False,Credit Card,Expense,2850.0,2850.0,2850.0

@@ -1,0 +1,23 @@
+{
+  "name": "Personal Expense Tracker Theme",
+  "dataColors": [
+    "#1B365D",
+    "#0D9488",
+    "#B91C1C",
+    "#D97706",
+    "#2563EB",
+    "#7C3AED",
+    "#475569",
+    "#059669"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#1B365D",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspace": [{ "color": { "solid": { "color": "#F8FAFC" } } }]
+      }
+    }
+  }
+}
